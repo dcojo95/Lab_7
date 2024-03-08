@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_world">Hello World</string>
+    <string name="button_text">I\'m a button!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="entname">Enter your Name</string>
+    <string name="nxt">Next</string>
+    <string name="wlcm">Welcome!</string>
+    <string name="dcmt">Don\'t call me that</string>
+    <string name="tnx">Thank you</string>
+    <string name="chngName">You can change your name</string>
+    <string name="add">ADD</string>
+    <string name="urgent">Urgent</string>
+    <string name="typehere">Type Here</string>
+    <string name="name">Name : </string>
+    <string name="height">Height : </string>
+    <string name="mass">Mass : </string>
+    <string name="fill_me"> fill_me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
